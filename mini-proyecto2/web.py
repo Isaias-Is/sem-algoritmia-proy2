@@ -1,4 +1,3 @@
-from importlib import reload
 from nicegui import ui
 from alumno import Alumno, AdministradorAlumnos
 
